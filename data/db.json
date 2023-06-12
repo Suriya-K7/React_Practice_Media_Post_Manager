@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My 1st Post",
+      "datetime": "June 01, 2023 12:29:36 PM",
+      "body": "Learning React JS"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "June 01, 2023 12:29:36 PM",
+      "body": "creating React JS"
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "June 12, 2023 12:02:36 PM",
+      "body": "upgrading React JS"
+    }
+  ]
+}
